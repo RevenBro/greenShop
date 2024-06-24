@@ -1,0 +1,39 @@
+
+  
+  .swiper {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #f9f9f9;  
+    display: flex;
+    padding-left: 40px;
+    background-image: url("../../public/hero-bg.png");
+    background-repeat: no-repeat;
+    background-size: 518px;
+    background-position: right, center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+.swiper-pagination-bullet-active-main {
+    background-color: #46A358 !important;
+}
+
+.hero-mobile-banner {
+    padding-left: 23px;
+    background-image: url("../../public/hero-mobile-main-bg.png"), url("../../public/hero-mobile-bg.png");
+    background-repeat: no-repeat;
+    border-radius: 25px;
+    background-size: 115%, 180px;
+    background-position: center,right center;
+    background-color: transparent;
+}

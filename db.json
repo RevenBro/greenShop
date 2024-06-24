@@ -1,0 +1,221 @@
+{
+    "users": [],
+    "plant-products": [
+      {
+        "id": "1",
+        "title": "Barberton Daisy",
+        "price": "$119.00",
+        "count": 1,
+        "categoryId": "1",
+        "categoryName": "Potter Plants",
+        "review": "19",
+        "sizeId": "1",
+        "tagId": "1",
+        "tagName": "All Plants",
+        "rateCount": "4",
+        "skuNumber": "1995751877966",
+        "description": {
+          "short": "The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground.",
+          "full": "The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc. Etiam gravida vehicula tellus, in imperdiet ligula euismod eget. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground.",
+          "livingRoom": "The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "diningRoom": "The benefits of houseplants are endless. In addition to cleaning the air of harmful toxins, they can help to improve your mood, reduce stress and provide you with better sleep. Fill every room of your home with houseplants and their restorative qualities will improve your life.",
+          "office": "The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        "images": [
+          "https://www.freeiconspng.com/uploads/single-daisy-chamomile-background-23.png",
+          "https://www.freeiconspng.com/uploads/flower-mayweed-chamaemelum-nobile-chamomile-clip-art-0.png",
+          "https://www.freeiconspng.com/uploads/roman-chamomile-flower-psd-oxeye-daisy-plants--8.jpg",
+          "https://www.freeiconspng.com/uploads/new-york-aster-aster-wildflower-chamomile-alchemy-2.png",
+          "https://www.freeiconspng.com/uploads/chamomile-style-mid-edelweiss-yellow-image-13.png"
+        ],
+        "socialLinks": {
+          "facebook": {
+            "show": true,
+            "path": "https://www.facebook.com/"
+          },
+          "twitter": {
+            "show": true,
+            "path": "https://www.twitter.com/"
+          },
+          "linkedin": {
+            "show": true,
+            "path": "https://www.twitter.com/"
+          },
+          "email": {
+            "show": true,
+            "path": "https://www.instagram.com/"
+          }
+        }
+      },
+      {
+        "id": "2",
+        "title": "Angel Wing Begonia",
+        "price": "$169.00",
+        "count": 1,
+        "categoryId": "2",
+        "categoryName": "Potter Plants",
+        "review": "13",
+        "sizeId": "1",
+        "tagId": "1",
+        "tagName": "All Plants",
+        "rateCount": "5",
+        "skuNumber": "521354621652",
+        "description": {
+          "short": "The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground.",
+          "full": "The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc. Etiam gravida vehicula tellus, in imperdiet ligula euismod eget. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground.",
+          "livingRoom": "The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "diningRoom": "The benefits of houseplants are endless. In addition to cleaning the air of harmful toxins, they can help to improve your mood, reduce stress and provide you with better sleep. Fill every room of your home with houseplants and their restorative qualities will improve your life.",
+          "office": "The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        "images": [
+          "https://www.freeiconspng.com/uploads/plant-png-potted-flower-image-20.png",
+          "https://www.freeiconspng.com/uploads/transparent-palm-tree-great-looking-desert-plants-png-image-26.png",
+          "https://www.freeiconspng.com/uploads/palm-tree-png-picture-4.png",
+          "https://www.freeiconspng.com/uploads/palm-tree-png-8.png",
+          "https://www.freeiconspng.com/uploads/palm-tree-png-7.png"
+        ],
+        "socialLinks": {
+          "facebook": {
+            "show": false,
+            "path": "https://www.facebook.com/"
+          },
+          "twitter": {
+            "show": true,
+            "path": "https://www.twitter.com/"
+          },
+          "linkedin": {
+            "show": true,
+            "path": "https://www.twitter.com/"
+          },
+          "email": {
+            "show": false,
+            "path": "https://www.instagram.com/"
+          }
+        }
+      },
+      {
+        "id": "3",
+        "title": "Blushing Bromeliad",
+        "price": "$139.00",
+        "count": 1,
+        "categoryId": "3",
+        "categoryName": "Seeds",
+        "review": "10",
+        "sizeId": "2",
+        "tagId": "2",
+        "tagName": "New Arrivals",
+        "rateCount": "2",
+        "skuNumber": "1999548552154",
+        "description": {
+          "short": "The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground.",
+          "full": "The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla augue nec est tristique auctor. Donec non est at libero vulputate rutrum. Morbi ornare lectus quis justo gravida semper. Nulla tellus mi, vulputate adipiscing cursus eu, suscipit id nulla.Pellentesque aliquet, sem eget laoreet ultrices, ipsum metus feugiat sem, quis fermentum turpis eros eget velit. Donec ac tempus ante. Fusce ultricies massa massa. Fusce aliquam, purus eget sagittis vulputate, sapien libero hendrerit est, sed commodo augue nisi non neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor, lorem et placerat vestibulum, metus nisi posuere nisl, in accumsan elit odio quis mi. Cras neque metus, consequat et blandit et, luctus a nunc. Etiam gravida vehicula tellus, in imperdiet ligula euismod eget. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground.",
+          "livingRoom": "The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+          "diningRoom": "The benefits of houseplants are endless. In addition to cleaning the air of harmful toxins, they can help to improve your mood, reduce stress and provide you with better sleep. Fill every room of your home with houseplants and their restorative qualities will improve your life.",
+          "office": "The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. The ceramic cylinder planters come with a wooden stand to help elevate your plants off the ground. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        "images": [
+          "https://www.freeiconspng.com/uploads/bush-png-image-6.png",
+          "https://www.freeiconspng.com/uploads/bush-png-image-0.png",
+          "https://www.freeiconspng.com/uploads/bushes-png-image-5.png",
+          "https://www.freeiconspng.com/uploads/bush-png-image-11.png",
+          "https://www.freeiconspng.com/uploads/bushes-png-image-15.png"
+        ],
+        "socialLinks": {
+          "facebook": {
+            "show": true,
+            "path": "https://www.facebook.com/"
+          },
+          "twitter": {
+            "show": true,
+            "path": "https://www.twitter.com/"
+          },
+          "linkedin": {
+            "show": false,
+            "path": "https://www.twitter.com/"
+          },
+          "email": {
+            "show": false,
+            "path": "https://www.instagram.com/"
+          }
+        }
+      }
+    ],
+    "categoryies": [
+      {
+        "id": "1",
+        "title": "House Plants",
+        "count": "33"
+      },
+      {
+        "id": "2",
+        "title": "Potter Plants",
+        "count": "12"
+      },
+      {
+        "id": "3",
+        "title": "Seeds",
+        "count": "65"
+      },
+      {
+        "id": "4",
+        "title": "Small Plants",
+        "count": "39"
+      },
+      {
+        "id": "5",
+        "title": "Big Plants",
+        "count": "23"
+      },
+      {
+        "id": "6",
+        "title": "Succulents",
+        "count": "17"
+      },
+      {
+        "id": "7",
+        "title": "Trerrariums",
+        "count": "19"
+      },
+      {
+        "id": "8",
+        "title": "Gardening",
+        "count": "13"
+      },
+      {
+        "id": "9",
+        "title": "Accessories",
+        "count": "18"
+      }
+    ],
+    "sizes": [
+      {
+        "id": "1",
+        "title": "Small",
+        "count": "119"
+      },
+      {
+        "id": "2",
+        "title": "Medium",
+        "count": "86"
+      },
+      {
+        "id": "3",
+        "title": "Large",
+        "count": "78"
+      }
+    ],
+    "tag-navbar": [
+      {
+        "id": "1",
+        "title": "All Plants"
+      },
+      {
+        "id": "2",
+        "title": "New Arrivals"
+      },
+      {
+        "id": "3",
+        "title": "Sale"
+      }
+    ]
+  }

@@ -2,32 +2,63 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+* {
+    box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-  }
+.container {
+    max-width: 1210px;
+    margin: 0 auto;
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+.input-search-icon {
+    background-image: url("../public/search-icon.svg");
+    background-repeat: no-repeat;
+    background-position: 11px center;
+    background-size: 22px;
 }
 
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+.ant-slider-track {
+    background-color: #46A358 !important;
+}
+
+.ant-slider-handle::before, .ant-slider-handle::after {
+    background-color: #46A358 !important;
+    border-radius: 50%;
+    box-shadow: none;
+}
+
+
+.ant-tabs-nav {
+    margin-bottom: 0px !important;
+
+    &&::before {
+        border-bottom: 0 !important;
+    }
+}
+
+.ant-tabs-tab-btn {
+    color: #46A358 !important;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.ant-pagination-item {
+    border: 1px solid #E5E5E5 !important;
+}
+
+.ant-pagination-item-active {
+    background-color: #46A358 !important;
+    border-color: #46A358 !important;
+
+    && > a {
+        color: white
+    }
+}
+
+.product-wrapper:hover > .product-list {
+    bottom: 10px;
+}
+.ant-modal-footer {
+    display: none !important;
 }
